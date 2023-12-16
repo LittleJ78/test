@@ -1,6 +1,7 @@
 ---
 share: "true"
 category: Индекс
+docs: 
 hidden: true
 ---
 
