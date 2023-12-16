@@ -2,6 +2,7 @@
 share: "true"
 title: Git Flow
 template: blog.html
+hidden: true
 ---
 
 [[../Тех. документация/Тех.  документация Talent-Id|Тех.  документация Talent-Id]]
