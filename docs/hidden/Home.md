@@ -1,7 +1,6 @@
 ---
 share: "true"
-category: Home
-title: Описание ресурса
+title: "Описание ресурса:"
 template: index.html
 ---
 
