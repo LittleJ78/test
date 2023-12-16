@@ -1,5 +1,6 @@
 ---
 share: "true"
+title: Git Flow
 ---
 
 [[../Тех. документация/Тех.  документация Talent-Id|Тех.  документация Talent-Id]]
