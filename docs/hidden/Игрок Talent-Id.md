@@ -2,5 +2,5 @@
 share: "true"
 ---
 
-[[./Сущности Talent-Id|Сущности Talent-Id]]
+[[../Тех. документация/Сущности Talent-Id|Сущности Talent-Id]]
 
