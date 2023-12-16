@@ -2,7 +2,6 @@
 share: "true"
 category: Тех. документация
 title: Git Flow
-template: blog.html
 ---
 
 [[./Тех.  документация Talent-Id|Тех.  документация Talent-Id]]
