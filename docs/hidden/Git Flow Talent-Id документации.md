@@ -1,9 +1,5 @@
 ---
 share: "true"
-template: blog.html
-title: Git Flow документации
-category: FolderName
-hidden: true
 ---
 
 [[../Тех. документация/Тех.  документация Talent-Id|Тех.  документация Talent-Id]]
