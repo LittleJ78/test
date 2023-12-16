@@ -1,5 +1,6 @@
 ---
 share: "true"
+template: blog.html
 ---
 
 
