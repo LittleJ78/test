@@ -1,7 +1,7 @@
 ---
 share: "true"
 category: Индекс
-docs: 
+template: blog.html
 hidden: true
 ---
 
