@@ -1,6 +1,7 @@
 ---
 share: "true"
 title: Git Flow
+template: blog.html
 ---
 
 [[../Тех. документация/Тех.  документация Talent-Id|Тех.  документация Talent-Id]]
