@@ -1,8 +1,7 @@
 ---
 share: "true"
-category: Home
-title: Home
-template: index.html
+title: Title
+template: home.html
 ---
 
 На этом ресурсе находится документация по проекту
