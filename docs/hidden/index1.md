@@ -1,6 +1,6 @@
 ---
 share: "true"
-template: home.html
+template: index.html
 hidden: true
 ---
 
