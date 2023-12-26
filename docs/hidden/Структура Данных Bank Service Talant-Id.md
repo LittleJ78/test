@@ -4,6 +4,8 @@ share: "true"
 
 [[../Тех. документация/Структуры Данных Talent-Id|Структуры Данных Talent-Id]]
 
+![[../assets/img/unnamed-1703568410236 1.png|unnamed-1703568410236 1]]
+
 ```json
 {
   "canvas": {
